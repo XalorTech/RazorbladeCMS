@@ -1,7 +1,8 @@
 # Razorblade CMS
 _RazorbladeCMS is an Open Source Content Management System (CMS) for DotNet Core._
+_A [XalorTech](https://github.com/XalorTech) Project_
 
-    Copyright (C) 2022 [XalorTech](https://github.com/XalorTech)
+    Copyright (C) 2022 XalorTech
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
