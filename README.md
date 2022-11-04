@@ -14,7 +14,7 @@ _RazorbladeCMS is an Open Source Content Management System (CMS) for DotNet Core
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)).
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## About Razorblade CMS
 Razorblade CMS is an **Open Source** Content Management System (CMS) built in DotNet Core. The intent is to offer a robust, modular platform that can be developed and deployed via Windows, Mac, and Linux. This platform will allow for both Official and custom modules (add-ons, plug-ins, widgets, etc.) and integrations.
